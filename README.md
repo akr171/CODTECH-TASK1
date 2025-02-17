@@ -1,20 +1,20 @@
-COMPANY: CODETECH IT SOLUTIONS
+**COMPANY: CODETECH IT SOLUTIONS**
 Name: ANSHU KUMAR RANA
 INTERN ID: CT08NNX
 Domain: Python Programming
 BATCH Duration: 20th January to 20th February
 Mentor: Neela Santhosh Kumar
 
-PROJECT: API INTEGRATION AND DATA VISUALIZATION
+**PROJECT: API INTEGRATION AND DATA VISUALIZATION**
 
-Overview of the Code
+**Overview of the Code**
 This Python script is designed to fetch and visualize the current position of the International Space Station (ISS) using the Open Notify API. Here's a breakdown of its functionality:
 
-1. Importing Required Libraries
+**1. Importing Required Libraries**
 requests: For making HTTP requests to fetch data from the API.
 pandas: To structure and handle data in a tabular format for analysis.
 matplotlib.pyplot and seaborn: For data visualization, specifically to create plots.
-2. Fetching Data from the API
+**2. Fetching Data from the API**
 API Endpoint: The script retrieves real-time data from http://api.open-notify.org/iss-now.json.
 Response Handling:
 It uses requests.get() to fetch the data.
