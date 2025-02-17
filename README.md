@@ -1,9 +1,15 @@
 **COMPANY: CODETECH IT SOLUTIONS**
+
 Name: ANSHU KUMAR RANA
+
 INTERN ID: CT08NNX
+
 Domain: Python Programming
+
 BATCH Duration: 20th January to 20th February
+
 Mentor: Neela Santhosh Kumar
+
 
 **PROJECT: API INTEGRATION AND DATA VISUALIZATION**
 
